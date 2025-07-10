@@ -1,0 +1,14 @@
+.bumblebee {
+    background-color: black;
+    color: white;
+}
+
+.bumblebee-opp {
+    background-color: yellow;
+}
+
+.bumblebee,
+.bumblebee-opp {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif ;
+}
